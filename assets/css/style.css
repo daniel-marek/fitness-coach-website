@@ -618,13 +618,13 @@ img {
 
 .calculate__input::-webkit-outer-spin-button,
 .calculate__input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   margin: 0;
 }
 
-.calculate__input[type=number] {
+/* .calculate__input[type=number] {
   -moz-appearance: textfield;
-}
+} */
 
 .calculate__label {
   position: absolute;
