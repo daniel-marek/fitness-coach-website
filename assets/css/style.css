@@ -419,7 +419,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.45)), url(assets/img/desktop.jpg);
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.45)), url(./assets/img/desktop.jpg);
   /* background-image: url(/assets/img/veronika-markova-6.jpg); */
   background-position: center;
   background-attachment: fixed;
