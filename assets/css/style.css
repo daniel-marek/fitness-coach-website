@@ -419,7 +419,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.45)), url(/assets/img/desktop.jpg);
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.1)), url(/assets/img/desktop.jpg);
   background-position: center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -554,16 +554,39 @@ img {
 }
 
 .slide1 {
-  background-image: url(/assets/img/fitness-caslav-1.jpg);  
+  background-image: url(/assets/img/fitness-kutna-hora-1.jpg);  
 }
 
 .slide2 {
-  background-image: url(/assets/img/fitness-caslav-2.jpg);  
+  background-image: url(/assets/img/fitness-kutna-hora-2.jpg);  
 }
 
 .slide3 {
-  background-image: url(/assets/img/fitness-caslav-3.jpg);  
+  background-image: url(/assets/img/fitness-kutna-hora-3.jpg);  
 }
+
+.slide4 {
+  background-image: url(/assets/img/fitness-kutna-hora-4.jpg);
+}
+
+.slide5 {
+  background-image: url(/assets/img/fitness-kutna-hora-5.jpg);
+}
+
+.slide6 {
+  background-image: url(/assets/img/fitness-caslav-1.jpg);
+}
+
+.slide7 {
+  background-image: url(/assets/img/fitness-caslav-2.jpg);
+}
+
+.slide8 {
+  background-image: url(/assets/img/fitness-caslav-3.jpg);
+}
+
+
+
 
 .swiper-button-prev, .swiper-button-next {
   display: none !important;
