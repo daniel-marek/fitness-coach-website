@@ -116,7 +116,7 @@ const sendEmail = (e) => {
     contactMessage.textContent = "Vyplňte prosím všechna pole!"
   } else {
     // serviceID - templateID - #form - publicKey
-    emailjs.sendForm("service_ypspr4r","template_9b3qv2n","#contact-form","hxixBDto3j64Smcva")
+    emailjs.sendForm("service_ioab6fp","template_dnw5uog","#contact-form","qVBvMOSZV7oPJNeZ_")
       .then(() => {
         // Show messafe and add color
         contactMessage.classList.add("color-green")
